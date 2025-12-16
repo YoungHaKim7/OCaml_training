@@ -18,3 +18,22 @@ Haskell 등과 함께 힌들리-밀너 타입 시스템(Hindley-Milner Type Syst
 - All the examples in Real World OCaml 
 - https://github.com/realworldocaml/examples
   - (위 자료 막히기전 Deprecated 버젼) https://github.com/realworldocaml/scripts
+
+# Install
+
+```bash
+$ bash -c "sh <(curl -fsSL https://opam.ocaml.org/install.sh)"
+## Downloading opam 2.5.0 for linux on x86_64...
+## Downloaded.
+## Where should it be installed ? [/usr/local/bin]
+Write access to '/usr/local/bin' required, using 'sudo'.
+Command: install -m 755 /tmp/opam-2.5.0-x86_64-linux /usr/local/bin/opam
+[sudo] password for g:
+## opam 2.5.0 installed to /usr/local/bin
+Write access to '/etc/apparmor.d' required, using 'sudo'.
+Command: install -m 644 /tmp/opam-local.aa.tmp /etc/apparmor.d/opam-local
+Write access to '/etc/apparmor.d' required, using 'sudo'.
+Command: apparmor_parser -a /etc/apparmor.d/opam-local
+AppArmor profile successfully added.
+## Run this script again with '--restore ' to revert.
+```
