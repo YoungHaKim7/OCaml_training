@@ -80,3 +80,14 @@ opam exec -- dune build
 $ opam exec -- dune exec hello
 Hello, World!
 ```
+
+# watch모드
+
+- Watch Mode
+  - Before we dive in, note that you will typically want to use Dune's watch mode to continually compile and optionally restart your program. This ensures that the language server has the freshest possible data about your project, so your editor support will be top-notch. To use watch mode, just add the `-w` flag:
+
+```bash
+opam exec -- dune build -w
+opam exec -- dune exec hello -w
+
+```
