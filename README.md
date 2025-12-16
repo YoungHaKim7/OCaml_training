@@ -54,3 +54,12 @@ AppArmor profile successfully added.
    * for Vim, add this line to ~/.vimrc:
      set rtp^="/home/g/.opam/default/share/ocp-indent/vim"
 ```
+
+# 필수 설치
+
+```bash
+opam install ocaml-lsp-server odoc ocamlformat utop
+```
+
+- opam종료
+  - `Ctrl + d`
