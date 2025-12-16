@@ -7,6 +7,9 @@
 - compile
   - https://github.com/ocaml-opam/opam-compiler
 
+# Playground
+- https://ocaml.org/play
+
 # OCaml언어
 - Rust는 개발 초기에 OCaml로 컴파일러가 제작되었다. 이후 언어가 발전함에 따라 컴파일러는 Rust 자체로 재작성되었다.
 - 4. 학문적 위상
