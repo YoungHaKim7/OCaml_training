@@ -42,3 +42,15 @@ Command: apparmor_parser -a /etc/apparmor.d/opam-local
 AppArmor profile successfully added.
 ## Run this script again with '--restore ' to revert.
 ```
+- https://ocaml.org/docs/installing-ocaml
+```bash
+<><> ocp-indent.1.9.0 installed successfully ><><><><><><><><><><><><><><><><><>
+=> This package requires additional configuration for use in editors. Install package 'user-setup', or manually:
+
+   * for Emacs, add these lines to ~/.emacs:
+     (add-to-list 'load-path "/home/g/.opam/default/share/emacs/site-lisp")
+     (require 'ocp-indent)
+
+   * for Vim, add this line to ~/.vimrc:
+     set rtp^="/home/g/.opam/default/share/ocp-indent/vim"
+```
