@@ -17,3 +17,4 @@ Haskell 등과 함께 힌들리-밀너 타입 시스템(Hindley-Milner Type Syst
 # examples
 - All the examples in Real World OCaml 
 - https://github.com/realworldocaml/examples
+  - (위 자료 막히기전 Deprecated 버젼) https://github.com/realworldocaml/scripts
