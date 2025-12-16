@@ -63,3 +63,20 @@ opam install ocaml-lsp-server odoc ocamlformat utop
 
 - opam종료
   - `Ctrl + d`
+
+# 프로젝트 만들기
+- https://ocaml.org/docs/your-first-program
+
+```bash
+# 프로젝트 만들기 init
+$ opam exec -- dune init proj hello
+Success: initialized project component named hello
+
+
+# build
+opam exec -- dune build
+
+# build하고 바로 실행
+$ opam exec -- dune exec hello
+Hello, World!
+```
