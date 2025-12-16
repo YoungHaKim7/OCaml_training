@@ -1,6 +1,6 @@
 <p align="center">
-  <img width=25px src="https://github.com/user-attachments/assets/ddad614c-4b16-431f-951e-5f9bdf4d917e" />
-  <br /><img width=55px src="https://github.com/user-attachments/assets/0dffef3b-b00c-4564-a0f6-5ce5f72983af" />
+  <img width=55px src="https://github.com/user-attachments/assets/ddad614c-4b16-431f-951e-5f9bdf4d917e" />
+  <br /><img width=65px src="https://github.com/user-attachments/assets/0dffef3b-b00c-4564-a0f6-5ce5f72983af" />
 </p>
 
 # OCaml_training
