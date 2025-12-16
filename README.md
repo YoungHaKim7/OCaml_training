@@ -1,8 +1,6 @@
 <p align="center">
-  <img width=25px src=https://github.com/user-attachments/assets/ddad614c-4b16-431f-951e-5f9bdf4d917e" />
-  <img width=55px src=https://github-production-user-asset-6210df.s3.amazonaws.com/67513038/527075167-ddad614c-4b16-431f-951e-5f9bdf4d917e.svg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251216%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251216T132650Z&X-Amz-Expires=300&X-Amz-Signature=625ae4d298485d4dda393c2aa33683c6814ba53c8b0adcbaebe87ffddc09a278&X-Amz-SignedHeaders=host" />
-![Image](https://github.com/user-attachments/assets/ddad614c-4b16-431f-951e-5f9bdf4d917e)
-![Image](https://github.com/user-attachments/assets/0dffef3b-b00c-4564-a0f6-5ce5f72983af)
+  <img width=25px src="https://github.com/user-attachments/assets/ddad614c-4b16-431f-951e-5f9bdf4d917e" />
+  <br /><img width=55px src="https://github.com/user-attachments/assets/0dffef3b-b00c-4564-a0f6-5ce5f72983af" />
 </p>
 
 # OCaml_training
